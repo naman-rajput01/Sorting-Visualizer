@@ -4,7 +4,7 @@ A web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
 
-Bubble sort
+
 
 1.Selection sort
 
@@ -15,6 +15,7 @@ Bubble sort
 4.Quick sort
 
 5.Heap sort
+6.Bubble sort
 
 
 Features:
