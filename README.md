@@ -43,3 +43,6 @@ Colored representation of step being executed:
 
 Time and Space complexity of algorithm being visualized.
 
+
+Live Deplyment:https://app.netlify.com/sites/deluxe-capybara-f939bd/deploys/63b82df9c91aa6027d66cf4b
+
