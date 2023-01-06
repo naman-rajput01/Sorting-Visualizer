@@ -15,6 +15,7 @@ Implemented algorithms:
 4.Quick sort
 
 5.Heap sort
+
 6.Bubble sort
 
 
